@@ -28,6 +28,6 @@ public class Zmienne {
 
         boolean sun = true; //false
 
-
+        // https://github.com/przemjan/czwartab_gr3_r2026.git
     }
 }
